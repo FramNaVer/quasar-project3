@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 b0e1395b0ec5f77bff1617a03c5310c101491e73 FramNaVer <framnaver@gmail.com> 1692758439 +0700	commit (initial): 1st project-quasar
+b0e1395b0ec5f77bff1617a03c5310c101491e73 b0e1395b0ec5f77bff1617a03c5310c101491e73 FramNaVer <framnaver@gmail.com> 1692758477 +0700	checkout: moving from master to master
+b0e1395b0ec5f77bff1617a03c5310c101491e73 b0e1395b0ec5f77bff1617a03c5310c101491e73 FramNaVer <framnaver@gmail.com> 1692759282 +0700	checkout: moving from master to eng-lang
+b0e1395b0ec5f77bff1617a03c5310c101491e73 dd56d9c2a46e51c3bccc6c5002af506231aabb59 FramNaVer <framnaver@gmail.com> 1692759480 +0700	commit: add template in IndexPage.vue
+dd56d9c2a46e51c3bccc6c5002af506231aabb59 6602b3fca8f3bca4482cfd45080303b2caadd483 FramNaVer <framnaver@gmail.com> 1692760059 +0700	commit: Add script part
+6602b3fca8f3bca4482cfd45080303b2caadd483 6602b3fca8f3bca4482cfd45080303b2caadd483 FramNaVer <framnaver@gmail.com> 1692760944 +0700	checkout: moving from eng-lang to thai-lang
+6602b3fca8f3bca4482cfd45080303b2caadd483 e7467a29f4f1b8eca47338a000a4559c1f21b29c FramNaVer <framnaver@gmail.com> 1692761000 +0700	commit: Change label to Thai language in IndexPage.vue
+e7467a29f4f1b8eca47338a000a4559c1f21b29c 6602b3fca8f3bca4482cfd45080303b2caadd483 FramNaVer <framnaver@gmail.com> 1692761728 +0700	checkout: moving from thai-lang to eng-lang
+6602b3fca8f3bca4482cfd45080303b2caadd483 e7467a29f4f1b8eca47338a000a4559c1f21b29c FramNaVer <framnaver@gmail.com> 1692762075 +0700	checkout: moving from eng-lang to thai-lang
+e7467a29f4f1b8eca47338a000a4559c1f21b29c b0e1395b0ec5f77bff1617a03c5310c101491e73 FramNaVer <framnaver@gmail.com> 1692762118 +0700	checkout: moving from thai-lang to master
+b0e1395b0ec5f77bff1617a03c5310c101491e73 b0e1395b0ec5f77bff1617a03c5310c101491e73 FramNaVer <framnaver@gmail.com> 1692762341 +0700	checkout: moving from master to master
+b0e1395b0ec5f77bff1617a03c5310c101491e73 07da6d3d2445f42642b4f4d6eb371ba28f82ac03 FramNaVer <framnaver@gmail.com> 1692762391 +0700	commit: Add 'Notify'in quasar.comf.js
+07da6d3d2445f42642b4f4d6eb371ba28f82ac03 da36b4819dfab9e6b0b453c016302d4255925740 FramNaVer <framnaver@gmail.com> 1692763117 +0700	merge thai-lang: Merge made by the 'ort' strategy.
